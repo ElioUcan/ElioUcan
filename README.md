@@ -9,6 +9,7 @@ Currently finishing my TSU en Ciencia de Datos degree while shipping real-world 
 ## 🚀 What I'm working on
 
 - **Portfolio series** — A sequence of Data / MLOps projects targeting remote engineering roles
+- **Better-Readmes** — A skill to make and push better READMEs 
 
 ---
 
