@@ -49,7 +49,7 @@ Currently finishing my TSU en Ciencia de Datos degree while shipping real-world 
 |---|---|
 | 📍 Location | México |
 | 💼 Open to | Remote Data / MLOps Engineering roles & internships |
-| 🌐 LinkedIn | [linkedin.com/in/elio](www.linkedin.com/in/elio-ucan-87a077352) |
+| 🌐 LinkedIn | [linkedin.com/in/elioucan](https://www.linkedin.com/in/elio-ucan-87a077352/) |
 | 📧 Email | elioeduardo06@email.com |
 
 > 🌎 English (C1) · Spanish (native) — available for remote collaboration worldwide.
