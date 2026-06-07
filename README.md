@@ -4,7 +4,7 @@ I'm a **Data Engineering student** at Universidad Politécnica de Yucatán (UPY)
 
 Currently finishing my TSU en Ciencia de Datos degree while shipping real-world projects involving pipelines, cloud infrastructure, and AI agents and also pursuing a DevOps career with Holberton. 🏆 3rd place at the UPY Datathon and Holberton programming olimpics.
 
-My website: https://elioucan.github.io/portfolio/
+My website: https://elioucan.dev 
 
 ---
 
