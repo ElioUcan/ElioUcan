@@ -2,13 +2,15 @@
 
 I'm a **Data Engineering student** at Universidad Politécnica de Yucatán (UPY), México — building toward a career in remote **Data / AI / MLOps Engineering**.
 
-Currently finishing my TSU en Ciencia de Datos degree while shipping real-world projects involving pipelines, cloud infrastructure, and AI agents. 🏆 3rd place at the UPY Datathon and Holberton programming olimpics.
+Currently finishing my TSU en Ciencia de Datos degree while shipping real-world projects involving pipelines, cloud infrastructure, and AI agents and also pursuing a DevOps career with Holberton. 🏆 3rd place at the UPY Datathon and Holberton programming olimpics.
+
+My website: https://elioucan.github.io/portfolio/
 
 ---
 
 ## 🚀 What I'm working on
 
-- **Portfolio series** — A sequence of Data / MLOps projects targeting remote engineering roles
+- **Portfolio series** — A sequence of Data / MLOps projects
 - **Better-Readmes** — A skill to make and push better READMEs 
 
 ---
