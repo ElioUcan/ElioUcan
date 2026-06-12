@@ -51,7 +51,7 @@ My website: https://elioucan.dev
 | | |
 |---|---|
 | 📍 Location | México |
-| 💼 Open to | Remote Data / MLOps Engineering roles & internships |
+| 💼 Open to | Remote, Hybrid, On-site Data / MLOps Engineering roles & internships |
 | 🌐 LinkedIn | [linkedin.com/in/elioucan](https://www.linkedin.com/in/elio-ucan-87a077352/) |
 | 📧 Email | elioeduardo06@email.com |
 
