@@ -10,8 +10,7 @@ My website: https://elioucan.dev
 
 ## 🚀 What I'm working on
 
-- **Portfolio series** — A sequence of Data / MLOps projects
-- **Better-Readmes** — A skill to make and push better READMEs 
+- **GLOBAL AI SAFETY HACKATHON** - Delivering a complete product
 
 ---
 
