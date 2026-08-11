@@ -10,7 +10,7 @@ My website: https://elioucan.dev
 
 ## 🚀 What I'm working on
 
-- **GLOBAL AI SAFETY HACKATHON** - Delivering a complete product
+- **Free (for the moment)**
 
 ---
 
